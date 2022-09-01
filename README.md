@@ -1,16 +1,5 @@
----
-layout: post
-title: HTML Table of Contents
-subtitle: Use PowerShell to generate a starting shell for your KB articles or Website
-cover-img: /assets/img/ThePower.jpg
-thumbnail-img: /assets/img/ThePowerCropped.jpg
-share-img: /assets/img/ThePower.jpg
-tags: [powershell, html, kb, ]
----
 
-
-
-<div><strong>Table of Contents to Rule All Table of Contents<a id="TOC" name="TOC"></a></strong></div>
+<div><strong>The Table of Contents to Rule All Table of Contents<a id="TOC" name="TOC"></a></strong></div>
 <ul>
 <li><a href="#Who,What,When,Where,2">Who, What, When, Where, Why</a></li>
 <li><a href="#Disclaimers3">Disclaimers</a></li>
