@@ -9,7 +9,6 @@
 </ul>
 <br><br><br>
 
-<h2>Who, What, When, Where, Why<a id="Who,What,When,Where,2" name="Who,What,When,Where,2"></a></h2></p>
 
 - **Who:** Web Devs and Knowledge Base Article Authors
 - **What:** 
