@@ -13,7 +13,7 @@
 - **Who:** Web Devs and Knowledge Base Article Authors
 - **What:** 
   - A PowerShell Script for making HTML Table of Contents.
-  - In goes a list of headings | Out goes HTML code for a Table of Content and coroponding linked/anchored Section Headings. 
+  - In goes a list of headings > Out goes HTML code for a Table of Content and corosponding linked/anchored Section Headings. 
   - [See this Walkthrough explaining how it works](/assets/posts/html_toc/script_kb_example)
 - **Why:** 
   - It saves you time that would otherwise be spent on formatting, copying, pasting, anchoring, linking, multiple times over multiple headings. 
@@ -61,30 +61,6 @@
 <br><br><br>
 <p><a href="#TOC">Return to the Article Table of Contents above</a>
           
-<p>&nbsp; </p><h2>The Story<a id="TheStory5" name="TheStory5"></a></h2></p>
-
-
-I like to share knowledge, which has resulted in my writing extensive kB articles for my institution. We use TeamDynamix as our Knowledge Base, which has a markdown editor with HTML source view. As my 
-
-
-
-
-
-<br><br><br>
-<p><a href="#TOC">Return to the Article Table of Contents above</a>
-<p>&nbsp; </p>
-
-
-
-
-
-
-
-
-
-
-
-" https://torsteinearly.github.io/2022-09-01-html-table-of-contents-script/ "
 
 
 
